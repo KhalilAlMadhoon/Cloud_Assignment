@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "425369867251",
+    "firebase_url": "https://m-learning-9daab-default-rtdb.firebaseio.com",
+    "project_id": "m-learning-9daab",
+    "storage_bucket": "m-learning-9daab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425369867251:android:23a6a1f6a3d7b87f83f886",
+        "android_client_info": {
+          "package_name": "com.example.bookslibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425369867251-kato7d85jkfgmaee7muvdb2ua4qagjn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNT8anl-C0aMlvJwa-modyv72yG-WmgpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425369867251-kato7d85jkfgmaee7muvdb2ua4qagjn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425369867251:android:e56f8567fd958c6e83f886",
+        "android_client_info": {
+          "package_name": "com.hussain_khalil_younes.m_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425369867251-p3u6ph5rsj3dlakn86tcrqei1rh17g1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussain_khalil_younes.m_learning",
+            "certificate_hash": "415cd34d3cb675a2d55d2d37d3a173979760bd26"
+          }
+        },
+        {
+          "client_id": "425369867251-kato7d85jkfgmaee7muvdb2ua4qagjn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNT8anl-C0aMlvJwa-modyv72yG-WmgpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425369867251-kato7d85jkfgmaee7muvdb2ua4qagjn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
